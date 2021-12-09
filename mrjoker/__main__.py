@@ -78,7 +78,7 @@ MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
 
 
 PM_START_TEXT = """
-*Hello there*, *I*'*m* [𝓜𝓻,𝓙𝓸𝓴𝓮𝓻](https://telegra.ph/file/6525d89de5b72003d80fa.png)
+*Hello there*, *I*'*m* [𝕫ꪖꪗꪀ ꪑꪖꪶⅈ𝕜]https://telegra.ph/file/9c24313233ae3353c000b.jpg)
 *I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group*
 🍃🔻 **Make sure you read** `INFO` **Section Below** 🔺🍃 
 """
@@ -100,14 +100,14 @@ buttons = [
     ],
     
     [
-        InlineKeyboardButton(text="➕ 𝐀𝐃𝐃 𝐌𝐑.𝐉𝐎𝐊𝐄𝐂 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕", url="http://t.me/Mrjokerlk_bot?startgroup=true"),
+        InlineKeyboardButton(text="➕ 𝐀𝐃𝐃 𝐌𝐑.𝐉𝐎𝐊𝐄𝐂 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕", url="http://t.me/Zaynmalik_gc_bot?startgroup=true"),
     ],
 ]
 
 
 HELP_STRINGS = """
 **SETTINGS**
-**𝐂𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 𝐛𝐞𝐥𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐚𝐛𝐨𝐮𝐭 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐦𝐨𝐝𝐮𝐥𝐞𝐬**[🤖](https://telegra.ph/file/6525d89de5b72003d80fa.png)"""
+**𝐂𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 𝐛𝐞𝐥𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐚𝐛𝐨𝐮𝐭 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐦𝐨𝐝𝐮𝐥𝐞𝐬**[🤖](https://telegra.ph/file/a21b4cbcc92f140ad17fd.jpg)"""
 
 
 
