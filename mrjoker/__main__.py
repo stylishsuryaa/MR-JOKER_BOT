@@ -78,7 +78,7 @@ MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
 
 
 PM_START_TEXT = """
-*Hello there*, *I*'*m* [𝕫ꪖꪗꪀ ꪑꪖꪶⅈ𝕜]https://telegra.ph/file/9c24313233ae3353c000b.jpg)
+*Hello there*, *I*'*m* [𝕫ꪖꪗꪀ ꪑꪖꪶⅈ𝕜](https://telegra.ph/file/9c24313233ae3353c000b.jpg)
 *I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group*
 🍃🔻 **Make sure you read** `INFO` **Section Below** 🔺🍃 
 """
