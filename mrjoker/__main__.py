@@ -72,7 +72,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-MRJOKER_IMG = "https://www.linkpicture.com/q/Orange-and-White-Funny-Dating-Animated-Video-Presentation.gif"
+MRJOKER_IMG = "https://telegra.ph/file/18650eaa5ad62132cf9c9.jpg"
 
 MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
 
@@ -111,7 +111,7 @@ HELP_STRINGS = """
 
 
 
-DONATE_STRING = """ @kavinduaj"""
+DONATE_STRING = """ @Suryaakumar"""
 
 IMPORTED = {}
 MIGRATEABLE = []
