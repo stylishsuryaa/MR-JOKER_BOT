@@ -78,7 +78,7 @@ MRJOKER_AUD = "https://audio.jukehost.co.uk/kKJkdHgoMPeqdel4sDrEHr7m4U6o4Xya"
 
 
 PM_START_TEXT = """
-*Hello there*, *I*'*m* [𝕫ꪖꪗꪀ ꪑꪖꪶⅈ𝕜](https://telegra.ph/file/9c24313233ae3353c000b.jpg)
+*Hello there*, *I*'*m* [🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨🇷𝐨𝐧𝐚𝐥𝐝𝐨 𝙓 🇷𝐨𝐛𝐨𝐭](https://telegra.ph/file/1ba30d3fabf8eeed99f96.jpg)
 *I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group*
 🍃🔻 **Make sure you read** `INFO` **Section Below** 🔺🍃 
 """
@@ -100,14 +100,13 @@ buttons = [
     ],
     
     [
-        InlineKeyboardButton(text="➕ 𝐀𝐃D 𝕫ꪖꪗꪀ ꪑꪖꪶⅈ𝕜 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕", url="http://t.me/Zaynmalik_gc_bot?startgroup=true"),
+        InlineKeyboardButton(text="➕ 𝐀𝐃D 🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨🇷𝐨𝐧𝐚𝐥𝐝𝐨 𝙓 🇷𝐨𝐛𝐨𝐭 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕", url="http://t.me/Zaynmalik_gc_bot?startgroup=true"),
     ],
-]
 
 
 HELP_STRINGS = """
 **SETTINGS**
-**𝐂𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 𝐛𝐞𝐥𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐚𝐛𝐨𝐮𝐭 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐦𝐨𝐝𝐮𝐥𝐞𝐬**[🤖](https://telegra.ph/file/a21b4cbcc92f140ad17fd.jpg)"""
+**𝐂𝐥𝐢𝐜𝐤 𝐨𝐧 𝐭𝐡𝐞 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 𝐛𝐞𝐥𝐨𝐰 𝐭𝐨 𝐠𝐞𝐭 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐚𝐛𝐨𝐮𝐭 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐦𝐨𝐝𝐮𝐥𝐞𝐬**[🤖](https://telegra.ph/file/1ba30d3fabf8eeed99f96.jpg)"""
 
 
 
@@ -308,7 +307,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "❮❮❮❮🤡 𝗠𝗿.𝗝𝗼𝗸𝗲𝗿 𝗛𝗲𝗹𝗽 𝗳𝗼𝗿 *{}* 𝗺𝗼𝗱𝘂𝗹𝗲 🤡❯❯❯❯:\n".format(
+                "❮❮❮❮ 🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨🇷𝐨𝐧𝐚𝐥𝐝𝐨 𝙓 🇷𝐨𝐛𝐨𝐭 𝗛𝗲𝗹𝗽 𝗳𝗼𝗿 *{}* 𝗺𝗼𝗱𝘂𝗹𝗲 ❯❯❯❯:\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -464,7 +463,7 @@ def mrjoker_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="𝗟𝗢𝗚'ꜱ 🤡", url="https://t.me/mrjokerloggroup"),
+                    InlineKeyboardButton(text="𝗟𝗢𝗚'ꜱ", url="https://t.me/mrjokerloggroup"),
                  ],
                  [
                     InlineKeyboardButton(text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 👥", url= "https://t.me/hitechlkgroup"),
@@ -497,7 +496,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..💫 I'm *𝕫ꪖꪗꪀ ꪑꪖꪶⅈ𝕜*
+            text=""" Hi..💫 I'm *🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨🇷𝐨𝐧𝐚𝐥𝐝𝐨 𝙓 🇷𝐨𝐛𝐨𝐭*
                  \nHere is the [✨Source Code✨](https://github.com/stylishsuryaa/MR-JOKER-BOT) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
